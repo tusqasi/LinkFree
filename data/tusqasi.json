@@ -1,0 +1,30 @@
+{
+  "name": "Tushar Kuntawar",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Working on stuff I love 🚀",
+  "avatar": "https://github.com/tusqasi.png",
+    "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/tusharkuntawar",
+      "icon": "FaTwitter"
+    },
+    
+    {
+      "name": "Check out my projects on github",
+      "url": "https://github.com/tusqasi",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Can I solve that question?",
+      "url": "https://stackoverflow.com/users/13227557/tusqasi",
+      "icon": "FaStackOverflow"
+    },
+    {
+      "name": "Connect with me ",
+      "url": "https://www.linkedin.com/in/tushar-kuntawar-9a7b8923b/",
+      "icon": "FaLinkedin"
+    }
+  ]
+}
